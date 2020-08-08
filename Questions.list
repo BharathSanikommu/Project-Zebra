@@ -1,0 +1,69 @@
+Project Zebra
+Deadline 1A : 16 August
+Every program listed here would be coded in JAVA and C++
+Total Number of Question : 47
+
+Day1 - 8 Aug
+1. Fibonacci series
+2. Prime numbers
+3. Palindrome (Number and String)
+4. Factorial
+5. Armstrong number
+
+Day2 - 9 Aug
+6. Sum of digits
+7. Reversing (String and Number)
+8. Swap tow numbers without using a third variable
+9. Matrix Multiplication
+10. Decimal to binary
+
+Day3 - 10 Aug
+11. Alphabet triangle
+12. Number triangle
+13. Fibonacci triangle
+14. Number in characters
+15. Avoiding Deadlock in JAVA
+
+Day4 - 11 Aug
+16. Removing duplicates from an array
+17. Finding frequency of a character in a string
+18. Reversing an array
+19. Is Leap Year?
+20. Finding the first non-repeating character in a string
+
+Day5 - 12 Aug
+21. Finding the middle element (Number, String, Array)
+22. Finding the middle element of a linked list
+23. Pre-order traversal
+24. Post-order traversal
+25. In-order traversal
+
+Day6 - 13 Aug
+26. Pre-order traversal without recursion
+27. Post-order traversal without recursion
+28. In-order traversal without recursion
+29. Print all leaves of a binary tree
+30. Sorting using quick Sorting
+
+Day7 - 14 Aug
+31. Insesrtion Sorting
+32. Bubble Sorting
+33. Transpose of a Matrix
+34. Print all permutations of string
+35. Addition of two matrices
+
+Day8 - 15 Aug
+36. Trim all spaces in a string
+37. Reverse a linked list
+38. Find the length of a linked list
+39. Check if a linked list has a loop
+40. Find the nth element of a linked list
+
+Day9 - 16 Aug
+41. Convert a linked list to a binary
+42. Sorting a linked list
+43. Iterative quick Sorting
+44. Bucket Sorting
+45. Counting Sorting
+46(*). LRU cache in JAVA
+47. Merge Sorting
